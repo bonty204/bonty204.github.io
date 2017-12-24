@@ -1,0 +1,45 @@
+#glav{
+	color:#FFFFFF;
+	text-align:center;
+	border-width: 7px;
+	border-style: dashed;
+	border-color: #C4C4C4;
+	width: 500px;
+	margin:30px auto 15px auto;
+	font-size: 130px;
+}
+
+a:link {
+	color:#FFFFFF;
+}
+a:visited {
+	color:#7A7A7A;
+}
+ a:hover {
+ color:#D8D8D8;
+ }
+
+ a:active {
+ 	color:#00FFFF;
+ }
+ p{
+ 	font-family:monospace;
+ 	font-size:230%;
+ }
+ a{
+ 	text-decoration:none;
+ 	border-width: 2px;
+ 	border-style: solid;
+ 	border-color: #green;
+ }
+ #fer{
+ 	border-style: solid;
+ 	border-width: 5px;
+ 	border-color: #C4C4C4;
+ 	font-size: 50px;
+ 	color:#FFFFFF;
+ }
+
+body{
+	background-image: url(imagess/ops.jpg);
+}
